@@ -78,8 +78,6 @@
             	
             }
 
-            .
-
             .first {
                 direction: ltr;
                 text-align: justify;
